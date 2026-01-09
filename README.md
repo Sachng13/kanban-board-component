@@ -4,7 +4,7 @@ A simple Kanban Board built with React + TypeScript featuring drag-and-drop task
 
 🚀 Live Demo
 
-👉 Live App: [Add your live link here]
+👉 Live App: https://kanban-board-component.vercel.app/
 
 ✨ Features
 
